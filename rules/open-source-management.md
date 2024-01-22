@@ -1,5 +1,5 @@
 ---
-description: A guide about
+description: The management guide for the source code on open repositories.
 ---
 
 # Open Source Management
