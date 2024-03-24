@@ -1,10 +1,6 @@
 # CustomServerAuthenticationFilter
 
-## Summary
-
-Set "Authentication" in customized authentication in Spring WebFlux.
-
-## Effect
+## Summary & Effect
 
 It sets the customized authentication for Spring WebFlux Application.
 

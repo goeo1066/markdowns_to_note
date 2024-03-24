@@ -1,10 +1,8 @@
 # Disabling Credential
 
-## Summary
+## Summary & Effect
 
 Change "credsStore" to "credStore"
-
-## Effect
 
 then Docker will run without credentials .
 
