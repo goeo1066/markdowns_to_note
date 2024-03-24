@@ -30,4 +30,4 @@ to
 }
 ```
 
-> [Docker Forum](https://forums.docker.com/t/docker-credential-desktop-exe-executable-file-not-found-in-path-using-wsl2/100225)
+> ref. [Docker Forum](https://forums.docker.com/t/docker-credential-desktop-exe-executable-file-not-found-in-path-using-wsl2/100225)
