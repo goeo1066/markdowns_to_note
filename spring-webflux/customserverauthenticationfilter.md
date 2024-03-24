@@ -73,3 +73,5 @@ public class WebFluxSecurityConfig {
     }
 }
 ```
+
+> Ref. [AnonymousAuthenticationWebFilter](https://github.com/spring-projects/spring-security/blob/main/web/src/main/java/org/springframework/security/web/server/authentication/AnonymousAuthenticationWebFilter.java)
