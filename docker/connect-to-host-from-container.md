@@ -13,7 +13,7 @@ An application inside a container can have a network connect to the host applica
 
 ## Example
 
-### docker-compose.yaml
+#### docker-compose.yaml
 
 ```yaml
 services:
@@ -25,7 +25,7 @@ services:
       - "host.docker.internal:host-gateway"
 ```
 
-### nginx.conf
+#### nginx.conf
 
 ```nginx
 http {

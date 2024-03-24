@@ -8,7 +8,7 @@ then Docker will run without credentials .
 
 ## Example
 
-\~/.docker/config.json
+#### \~/.docker/config.json
 
 ```json
 {
